@@ -1,4 +1,4 @@
-# StackForge
+# SetupStack ToolKit
 
 Build, automate, and manage modern Linux developer and AI workstations with simple, production-ready tooling.
 
