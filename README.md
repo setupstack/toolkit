@@ -17,7 +17,7 @@ make complex setups easy, repeatable, and reliable.
 
 ## Project Links
 
-- GitHub Repository: [https://github.com/setupstack/setupstack](https://github.com/setupstack/setupstack)
+- GitHub Repository: [https://github.com/setupstack/toolkit](https://github.com/setupstack/toolkit)
 - YouTube Channel: [https://www.youtube.com/@SetupStack](https://www.youtube.com/@SetupStack)
 
 ---
